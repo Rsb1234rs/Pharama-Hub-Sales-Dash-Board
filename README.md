@@ -1,4 +1,4 @@
-# Pharama-Hub-Sales-Dash-Board
+# Pharma-Hub-Sales-Dash-Board
 A Pharma Hub Sales Dashboard is a business intelligence tool that provides a comprehensive and real-time visualization of sales performance, inventory levels, customer behavior, and market trends in the pharmaceutical industry. It integrates data from multiple sources, such as ERP systems, CRM platforms, and sales databases, to offer actionable insights for decision-making.
 
 **Over All summary of Sales in the Financial year of 2023-24**
